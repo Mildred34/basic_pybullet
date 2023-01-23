@@ -1,0 +1,3 @@
+__pycache__/
+*.log
+generator/ressources/cea_robots/old_urdf/
