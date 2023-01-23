@@ -22,4 +22,4 @@ debug:
   JOINTS: True
   POS: False # Check kinematics solver
   LEVEL: 0 # 0 is no debug ; 1 is with full debug
-  LOG_PATH : "\\logs\\logs_saved\\" # path where the logs will be saved
+  LOG_PATH : "/logs/logs_saved/" # path where the logs will be saved

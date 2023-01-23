@@ -2,7 +2,7 @@
 ## 3 Doigts
 # 2 Phalanges
 D3P2P1L1 :
-  path :  "\\cea_robots\\D3P2P1L1.urdf"
+  path :  "/cea_robots/D3P2P1L1.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -32,7 +32,7 @@ D3P2P1L1 :
         close : "upper,upper"
 
 D3P2P1L2 :
-  path :  "\\cea_robots\\D3P2P1L2.urdf"
+  path :  "/cea_robots/D3P2P1L2.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -63,7 +63,7 @@ D3P2P1L2 :
 
 
 D3P2P2L1 :
-  path :  "\\cea_robots\\D3P2P2L1.urdf"
+  path :  "/cea_robots/D3P2P2L1.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -95,7 +95,7 @@ D3P2P2L1 :
 
 
 D3P2P2L2 :
-  path :  "\\cea_robots\\D3P2P2L2.urdf"
+  path :  "/cea_robots/D3P2P2L2.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -127,7 +127,7 @@ D3P2P2L2 :
 # 3 Phalanges
 
 D3P3P1L1 :
-  path :  "\\cea_robots\\D3P3P1L1.urdf"
+  path :  "/cea_robots/D3P3P1L1.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -158,7 +158,7 @@ D3P3P1L1 :
 
 
 D3P3P1L2 :
-  path :  "\\cea_robots\\D3P3P1L2.urdf"
+  path :  "/cea_robots/D3P3P1L2.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -189,7 +189,7 @@ D3P3P1L2 :
 
 
 D3P3P2L1 :
-  path :  "\\cea_robots\\D3P3P2L1.urdf"
+  path :  "/cea_robots/D3P3P2L1.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -220,7 +220,7 @@ D3P3P2L1 :
 
 
 D3P3P2L2 :
-  path :  "\\cea_robots\\D3P3P2L2.urdf"
+  path :  "/cea_robots/D3P3P2L2.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -253,7 +253,7 @@ D3P3P2L2 :
 # 2 phalanges
 
 D4P2P1L1 :
-  path :  "\\cea_robots\\D4P2P1L1.urdf"
+  path :  "/cea_robots/D4P2P1L1.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -290,7 +290,7 @@ D4P2P1L1 :
         close : "upper,upper"
 
 D4P2P1L2 :
-  path :  "\\cea_robots\\D4P2P1L2.urdf"
+  path :  "/cea_robots/D4P2P1L2.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -329,7 +329,7 @@ D4P2P1L2 :
 
 
 D4P2P2L1 :
-  path :  "\\cea_robots\\D4P2P2L1.urdf"
+  path :  "/cea_robots/D4P2P2L1.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -367,7 +367,7 @@ D4P2P2L1 :
 
 
 D4P2P2L2 :
-  path :  "\\cea_robots\\D4P2P2L2.urdf"
+  path :  "/cea_robots/D4P2P2L2.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -406,7 +406,7 @@ D4P2P2L2 :
 # 3 phalanges
 
 D4P3P1L1 :
-  path :  "\\cea_robots\\D4P3P1L1.urdf"
+  path :  "/cea_robots/D4P3P1L1.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -444,7 +444,7 @@ D4P3P1L1 :
 
 
 D4P3P1L2 :
-  path :  "\\cea_robots\\D4P3P1L2.urdf"
+  path :  "/cea_robots/D4P3P1L2.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -482,7 +482,7 @@ D4P3P1L2 :
 
 
 D4P3P2L1 :
-  path :  "\\cea_robots\\D4P3P2L1.urdf"
+  path :  "/cea_robots/D4P3P2L1.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -520,7 +520,7 @@ D4P3P2L1 :
 
 
 D4P3P2L2 :
-  path :  "\\cea_robots\\D4P3P2L2.urdf"
+  path :  "/cea_robots/D4P3P2L2.urdf"
   endeffector : "hand_grasp_center"
 
   palm:
@@ -560,7 +560,7 @@ D4P3P2L2 :
 # 2 phalanges
 
 # D5P2P1L1 :
-#   path :  "\\cea_robots\\D5P2P1L1.urdf"
+#   path :  "/cea_robots/D5P2P1L1.urdf"
 #   endeffector : "hand_grasp_center"
 
 #   palm:
@@ -604,7 +604,7 @@ D4P3P2L2 :
 #         close : "upper,upper"
 
 # D5P2P1L2 :
-#   path :  "\\cea_robots\\D5P2P1L2.urdf"
+#   path :  "/cea_robots/D5P2P1L2.urdf"
 #   endeffector : "hand_grasp_center"
 
 #   palm:
@@ -649,7 +649,7 @@ D4P3P2L2 :
 
 
 # D5P2P2L1 :
-#   path :  "\\cea_robots\\D5P2P2L1.urdf"
+#   path :  "/cea_robots/D5P2P2L1.urdf"
 #   endeffector : "hand_grasp_center"
 
 #   palm:
@@ -694,7 +694,7 @@ D4P3P2L2 :
 
 
 # D5P2P2L2 :
-#   path :  "\\cea_robots\\D5P2P2L2.urdf"
+#   path :  "/cea_robots/D5P2P2L2.urdf"
 #   endeffector : "hand_grasp_center"
 
 #   palm:
@@ -740,7 +740,7 @@ D4P3P2L2 :
 # # 3 phalanges
 
 # D5P3P1L1 :
-#   path :  "\\cea_robots\\D5P3P1L1.urdf"
+#   path :  "/cea_robots/D5P3P1L1.urdf"
 #   endeffector : "hand_grasp_center"
 
 #   palm:
@@ -784,7 +784,7 @@ D4P3P2L2 :
 #         close : "upper,upper,upper"
 
 # D5P3P1L2 :
-#   path :  "\\cea_robots\\D5P3P1L2.urdf"
+#   path :  "/cea_robots/D5P3P1L2.urdf"
 #   endeffector : "hand_grasp_center"
 
 #   palm:
@@ -829,7 +829,7 @@ D4P3P2L2 :
 
 
 # D5P3P2L1 :
-#   path :  "\\cea_robots\\D5P3P2L1.urdf"
+#   path :  "/cea_robots/D5P3P2L1.urdf"
 #   endeffector : "hand_grasp_center"
 
 #   palm:
@@ -874,7 +874,7 @@ D4P3P2L2 :
 
 
 # D5P3P2L2 :
-#   path :  "\\cea_robots\\D5P3P2L2.urdf"
+#   path :  "/cea_robots/D5P3P2L2.urdf"
 #   endeffector : "hand_grasp_center"
 
 #   palm:

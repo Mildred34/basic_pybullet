@@ -3,7 +3,7 @@ import generator
 import time
 import gym
 import logging,os,sys
-sys.path.append(os.path.dirname(__file__)+"\\logs")
+sys.path.append(os.path.dirname(__file__)+"/logs")
 from logs import _log_handling as log
 from functions import DEBUG_LEVEL, LOG_PATH
 

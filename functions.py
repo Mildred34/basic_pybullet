@@ -59,7 +59,7 @@ def __open_file_on_config_dir(file_name: str, extention: str = "yaml") -> Dict:
     with open(
         path_join_str(
             path_starting_from_code(),
-            "config_files\\" + file_name + ext,
+            "config_files/" + file_name + ext,
         )
     ) as f:
         if extention == "yaml":
@@ -194,7 +194,7 @@ def __get_stl_path_dict() -> dict:
     objects = get_object_dict()
 
     # Path du dossier stl
-    path = path_join_str(path_starting_from_code(1), "stl\\")
+    path = path_join_str(path_starting_from_code(1), "stl/")
 
     for obj in objects:
         # On retire grasp et perturbation du dico de chaque objet

@@ -21,7 +21,7 @@ class Goal:
         self._urdfname = self._name
 
 
-        self.urdf_path = os.path.dirname(__file__) + "\\" + self._list + "\\" + self._urdfname + ".urdf"
+        self.urdf_path = os.path.dirname(__file__) + "/" + self._list + "/" + self._urdfname + ".urdf"
 
         # Orientation de l'objet selon l'axe correspondant dans le sens donné
         if(Axe.value > Axe.Z):
