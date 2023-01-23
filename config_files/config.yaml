@@ -1,7 +1,7 @@
 # Simulations parameters
 simulation:
   GUI: True # Mode non gui a ne pas utiliser pour l'instant ; mode semi-auto en construction
-  GRAVITY: True
+  GRAVITY: False
 
 # robot parameters
 robot:
